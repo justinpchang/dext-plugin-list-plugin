@@ -31,7 +31,6 @@ module.exports = {
                 );
             }
         }
-        console.log(items[1]);
         return { items };
     }
 };
