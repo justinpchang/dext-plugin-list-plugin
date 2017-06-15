@@ -1,6 +1,6 @@
 # dext-plugin-list-plugin
 
-> [Dext](https://github.com/vutran/dext) plugin to search [Google](https://google.com).
+> [Dext](https://github.com/vutran/dext) plugin to list enabled Dext plugins.
 
 ## Install
 
