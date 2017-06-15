@@ -15,8 +15,5 @@
     "type": "git",
     "url": "https://github.com/justinpchang/dext-plugin-list-plugin"
   },
-  "license": "MIT",
-  "dependencies": {
-    "urlencode": "^1.1.0"
-  }
+  "license": "MIT"
 }
