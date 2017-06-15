@@ -1,0 +1,22 @@
+{
+  "name": "dext-plugin-list-plugin",
+  "version": "0.1.0",
+  "description": "Dext plugin to list plugins currently loaded.",
+  "keywords": [
+    "dext",
+    "dext-plugin",
+    "plugins",
+    "list",
+    "github"
+  ],
+  "main": "index.js",
+  "author": "Justin Chang <justin.p.chang@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justinpchang/dext-plugin-list-plugin"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "urlencode": "^1.1.0"
+  }
+}
